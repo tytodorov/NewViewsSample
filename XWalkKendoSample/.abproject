@@ -1,45 +1,45 @@
 {
-  "ProjectName": "XWalkKendoSample",
-  "ProjectGuid": "f1b45e9a-b1e9-4cbd-9ad0-38b7aca5e561",
-  "projectVersion": 1,
-  "AppIdentifier": "com.telerik.XWalkKendoSample",
-  "DisplayName": "XWalkKendoSample",
-  "Author": "",
-  "Description": "XWalkKendoSample",
-  "BundleVersion": "1.0",
-  "AndroidVersionCode": "1",
-  "iOSDeviceFamily": [
-    "1",
-    "2"
-  ],
-  "iOSBackgroundMode": [],
-  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "FrameworkVersion": "4.0.0",
-  "AndroidPermissions": [
-    "android.permission.INTERNET"
-  ],
-  "DeviceOrientations": [
-    "Portrait",
-    "Landscape"
-  ],
-  "AndroidHardwareAcceleration": "True",
-  "iOSStatusBarStyle": "Default",
-  "Framework": "Cordova",
-  "WP8TileTitle": "",
-  "WP8Publisher": "",
-  "WP8Capabilities": [
-    "ID_CAP_NETWORKING",
-    "ID_CAP_WEBBROWSERCOMPONENT"
-  ],
-  "WP8Requirements": [],
-  "WP8PublisherID": "{0ff49021-40e8-4544-9b1f-41e674048587}",
-  "WP8ProductID": "{061262e0-1a92-47b6-9bb1-d052e35b77cc}",
-  "WPSdk": "8.0",
-  "WP8PackageIdentityName": "1234Telerik.XWalkKendoSample",
-  "WP8WindowsPublisherName": "CN=Telerik",
-  "WP8SupportedResolutions": [
-    "ID_RESOLUTION_WVGA",
-    "ID_RESOLUTION_WXGA",
-    "ID_RESOLUTION_HD720P"
-  ]
+	"ProjectName": "XWalkKendoSample",
+	"ProjectGuid": "{bc5f5153-f894-4573-a36d-2dc06e0f0568}",
+	"projectVersion": 1,
+	"AppIdentifier": "com.telerik.XWalkKendoSample",
+	"DisplayName": "XWalkKendoSample",
+	"Author": "",
+	"Description": "XWalkKendoSample",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"iOSBackgroundMode": [],
+	"ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+	"FrameworkVersion": "4.0.0",
+	"AndroidPermissions": [
+		"android.permission.INTERNET"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"AndroidHardwareAcceleration": "true",
+	"iOSStatusBarStyle": "Default",
+	"Framework": "Cordova",
+	"WP8TileTitle": "",
+	"WP8Publisher": "",
+	"WP8Capabilities": [
+		"ID_CAP_NETWORKING",
+		"ID_CAP_WEBBROWSERCOMPONENT"
+	],
+	"WP8Requirements": [],
+	"WP8PublisherID": "{73c74dbb-cd9d-4a44-82bc-42b68bf214f2}",
+	"WP8ProductID": "{b7e9656f-de49-48f0-8a69-32c39dfd29e0}",
+	"WPSdk": "8.0",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.XWalkKendoSample",
+	"WP8WindowsPublisherName": "CN=Telerik",
+	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_WVGA",
+		"ID_RESOLUTION_WXGA",
+		"ID_RESOLUTION_HD720P"
+	]
 }
