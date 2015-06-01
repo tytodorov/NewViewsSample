@@ -1,5 +1,7 @@
 {
   "CorePlugins": [
+    "com.telerik.plugins.wkwebview@0.3.8",
+    "cordova-plugin-crosswalk-webview@1.2.0",
     "org.apache.cordova.battery-status",
     "org.apache.cordova.camera",
     "org.apache.cordova.console",
